@@ -8,3 +8,5 @@ This repository is built step by step in the tutorial.
 Add some changes to the code, and then commit the changes. For now, we will "Commit directly to the master branch".
 
 Make another change to the Readme.md file on GitHub.
+
+Just add a new line.
